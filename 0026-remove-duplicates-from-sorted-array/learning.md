@@ -46,7 +46,7 @@ Is problem ko dekhte hi yeh sochna chahiye:
 ## 🧠 Example (Important for memory)
 
 ### Input
-```text
+
 nums = [1,1,2,2,3]
 Step-by-step
 - Start: `i = 0`  
@@ -56,7 +56,7 @@ Step-by-step
 - `j = 4` → new element → `i = 2` → `nums[2] = 3`  
 
 ### Final array
-```text
+
 [1,2,3,...]
 Return 
 3
