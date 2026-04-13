@@ -54,4 +54,36 @@ Return:
 - In-place filtering
 - Array overwrite technique
 
+## Pattern Used
+Two Pointer (Write Pointer Technique)
 
+## Why This Works
+- Hum ek pointer se array traverse karte hain (read)
+- Dusra pointer valid elements ko store karta hai (write)
+- Isse unnecessary elements automatically overwrite ho jate hain
+- Extra space use nahi hota
+
+## When To Use This Pattern Again
+- Jab kisi specific value ko remove/filter karna ho
+- Jab in-place modification required ho
+- Jab order important ho ya na ho (dono cases me kaam karta hai)
+- Keywords: "remove element", "filter array", "in-place"
+
+## Common Mistakes
+- New array banana
+- i ko galat update karna
+- val wale elements ko overwrite na karna
+- Return value galat dena
+
+## Complexity Analysis
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+## Interview Tip
+- Start me bolo: "We will use a write pointer to place only valid elements"
+- Clearly batao ki kaise overwrite ho raha hai
+- In-place condition highlight karo
+- Ek quick dry run kar do
+
+Simple rule:
+"Filter unwanted, overwrite valid"
