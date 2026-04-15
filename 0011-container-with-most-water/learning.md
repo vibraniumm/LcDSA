@@ -64,3 +64,42 @@ Final Answer:
 
 "Chhoti wall hi water limit karti hai → usko hi move karo"
 
+## Pattern Recognition
+- Two pointers (opposite ends)
+- Greedy decision making
+- Optimization over brute force
+
+## Pattern Used
+Two Pointer (Greedy Optimization)
+
+## Why This Works
+- Maximum width start me hoti hai
+- Area depend karta hai smaller height par
+- Agar chhoti height ko replace nahi karoge → area improve nahi hoga
+- Isliye hamesha chhoti side ko move karte hain better chance ke liye
+
+## When To Use This Pattern Again
+- Jab array me 2 ends se answer find karna ho
+- Jab width/length reduce hoti hai aur optimize karna ho
+- Jab greedy decision valid ho
+- Keywords: "max area", "two ends", "optimize brute force"
+
+## Common Mistakes
+- Badi height wali pointer move kar dena (wrong logic)
+- Area formula galat use karna
+- Brute force use karna (TLE)
+- min(height) ka concept ignore karna
+                                                                                                                                                                                                                              
+## Complexity Analysis
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+  
+## Interview Tip
+- Start me bolo: "Brute force O(n^2) hoga, so we optimize using two pointers"
+- Explain karo ki kyun smaller height move karte hain
+- Clearly bolo ki width decrease hoti hai but height improve ho sakti hai
+- Ek dry run karke logic prove karo
+
+Simple rule:
+"Move the smaller height pointer"
+
