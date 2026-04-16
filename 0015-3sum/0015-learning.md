@@ -79,3 +79,36 @@ Final Answer:
 - Duplicate handling
 - Reduction of problem (3Sum → 2Sum)
 
+## Pattern Used
+Sorting + Two Pointer (2Sum Reduction)
+
+## Why This Works
+- Sorting se order milta hai jisse two pointer apply ho sakta hai
+- Har element ko fix karke problem 2Sum ban jata hai
+- Two pointer efficiently pairs find karta hai
+- Duplicate skipping ensures unique triplets
+
+## When To Use This Pattern Again
+- Jab 3Sum / 4Sum type problems aaye
+- Jab combinations with target sum ho
+- Jab duplicates avoid karne ho
+- Keywords: "triplets", "sum = target", "unique combinations"
+
+## Common Mistakes
+- Array sort na karna
+- Duplicate skip na karna
+- Infinite loop in two pointer
+- Same element reuse kar lena
+
+## Complexity Analysis
+- Time Complexity: O(n^2)
+- Space Complexity: O(1) (excluding output)
+
+## Interview Tip
+- Start me bolo: "We sort the array and reduce 3Sum to 2Sum using two pointers"
+- Brute force briefly mention karo
+- Duplicate handling explain karo clearly
+- Ek dry run karke approach prove karo
+
+Simple rule:
+"Sort + fix one + two pointer"
