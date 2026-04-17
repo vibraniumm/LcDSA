@@ -58,3 +58,47 @@ Remaining:
 Final array:
 [1,2,2,3,5,6]
 
+## Easy Memory Trick
+
+"Merge from back to avoid overwrite"
+
+## Pattern Recognition
+- Two pointers
+- Reverse traversal
+- In-place merging
+
+## Pattern Used
+Two Pointer (Backward Merge)
+
+## Why This Works
+- End se merge karne se original values safe rehte hain
+- Har step me bada element last me place hota hai
+- Extra space ka efficient use hota hai
+- No extra array needed
+
+## When To Use This Pattern Again
+- Jab 2 sorted arrays merge karne ho
+- Jab in-place merge required ho
+- Jab overwrite problem ho sakta ho
+- Keywords: "merge sorted", "in-place", "extra space at end"
+
+## Common Mistakes
+- Start se merge karna (data overwrite ho jayega)
+- Pointer initialization galat karna
+- nums2 ke remaining elements copy na karna
+- Edge case ignore karna (m = 0)
+
+## Complexity Analysis
+- Time Complexity: O(m + n)
+- Space Complexity: O(1)
+
+## Interview Tip
+- Start me bolo: "We will merge from the back to avoid overwriting elements"
+- Clearly explain karo 3 pointer logic
+- Edge cases mention karo (m = 0, n = 0)
+- Ek quick dry run karke logic validate karo
+
+Simple rule:
+"Merge from back"
+
+
