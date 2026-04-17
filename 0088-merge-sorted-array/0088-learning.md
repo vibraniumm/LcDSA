@@ -36,3 +36,25 @@ Is problem ko dekhte hi yeh sochna chahiye:
 3. Agar nums2 ke elements bache ho:
    → copy them into nums1
 
+## Example (Important for memory)
+
+Input:
+nums1 = [1,2,3,0,0,0], m = 3  
+nums2 = [2,5,6], n = 3  
+
+Step-by-step:
+
+Compare from end:
+
+3 vs 6 → place 6  
+3 vs 5 → place 5  
+3 vs 2 → place 3  
+2 vs 2 → place 2  
+1 vs 2 → place 2  
+
+Remaining:
+1
+
+Final array:
+[1,2,2,3,5,6]
+
