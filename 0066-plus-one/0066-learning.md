@@ -54,3 +54,43 @@ digits = [9,9]
 
 "Right se start karo, 9 ko 0 banao, first non-9 ko +1 karo"
 
+## Pattern Recognition
+- Array traversal (reverse)
+- Carry propagation
+- Digit manipulation
+
+## Pattern Used
+Carry Handling (Reverse Traversal)
+
+## Why This Works
+- Addition naturally right se hoti hai
+- Carry propagate hota hai jab digit 9 ho
+- First non-9 digit milte hi process stop ho jata hai
+- Agar sab 9 ho → new digit add karna padta hai
+
+## When To Use This Pattern Again
+- Jab digit-based operations ho
+- Jab carry/borrow involved ho
+- Jab number array form me diya ho
+- Keywords: "plus one", "increment", "digit array"
+
+## Common Mistakes
+- Left se start karna
+- Carry properly handle na karna
+- All 9s case ignore karna
+- New array return karna bhool jana
+
+## Complexity Analysis
+- Time Complexity: O(n)
+- Space Complexity: O(1) (except edge case)
+
+## Interview Tip
+- Start me bolo: "We simulate addition from right to left with carry"
+- Explain karo ki kyun 9 special case hai
+- All 9 case mention karo
+- Ek quick dry run kar do
+
+Simple rule:
+"Right to left + handle 9"
+
+
