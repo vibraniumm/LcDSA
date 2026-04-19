@@ -50,5 +50,44 @@ Final Answer:
 
 "Sabse sasta kharido, sabse mehenga baad me becho"
 
+## Pattern Recognition
+- Greedy
+- Single pass optimization
+- Min tracking
+
+## Pattern Used
+Greedy (Track Minimum + Max Profit)
+
+## Why This Works
+- Har step pe best buy price (minimum) maintain karte hain
+- Future me agar better selling price mile to profit update karte hain
+- Ek hi pass me optimal solution mil jata hai
+- Brute force (O(n^2)) avoid ho jata hai
+
+## When To Use This Pattern Again
+- Jab max difference find karna ho
+- Jab future value compare karni ho past minimum se
+- Jab single transaction allowed ho
+- Keywords: "max profit", "buy and sell", "difference"
+
+## Common Mistakes
+- Pehle sell kar dena (invalid case)
+- Minimum track na karna
+- Brute force use karna
+- Negative profit allow karna
+
+## Complexity Analysis
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+## Interview Tip
+- Start me bolo: "We track the minimum price so far and calculate max profit in one pass"
+- Brute force briefly mention karo
+- Explain karo ki kyun greedy kaam karta hai
+- Ek quick dry run kar do
+
+Simple rule:
+"Track min, update profit"
+
 
 
