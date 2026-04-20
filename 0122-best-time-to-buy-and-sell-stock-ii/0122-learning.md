@@ -44,3 +44,44 @@ Total profit:
 
 "Har chhota profit le lo, sab add karo"
 
+## Pattern Recognition
+- Greedy
+- Multiple transactions
+- Peak-Valley concept
+
+## Pattern Used
+Greedy (Sum of Positive Differences)
+
+## Why This Works
+- Har increasing segment me profit milta hai
+- Large profit ko small chunks me tod sakte hain
+- Same result milta hai whether you hold long or sell multiple times
+- Efficient O(n) solution milta hai
+
+## When To Use This Pattern Again
+- Jab multiple transactions allowed ho
+- Jab profit maximize karna ho
+- Jab adjacent differences ka use ho sakta ho
+- Keywords: "multiple buy sell", "maximize profit", "unlimited transactions"
+
+## Common Mistakes
+- Sirf ek transaction solve karna (previous problem jaisa)
+- Peak valley logic samajh na paana
+- Negative differences add kar dena
+- Overcomplicate karna
+
+## Complexity Analysis
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+## Interview Tip
+- Start me bolo: "We use greedy approach and take profit whenever price increases"
+- Previous problem (single transaction) se difference explain karo
+- Clearly batao ki kyun sab positive differences add karte hain
+- Ek quick dry run kar do
+
+Simple rule:
+"Every rise is profit"
+
+
+
