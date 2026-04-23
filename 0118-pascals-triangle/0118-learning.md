@@ -53,4 +53,35 @@ Final:
 ## Pattern Used
 Dynamic Programming (Row by Row Construction)
 
+## Why This Works
+- Har row previous row par depend karti hai
+- Subproblem already solved hota hai (previous row)
+- Incrementally solution build hota hai
+- Efficient aur simple logic
+
+## When To Use This Pattern Again
+- Jab problem previous state par depend kare
+- Jab pattern row-by-row build hota ho
+- Jab overlapping subproblems ho
+- Keywords: "triangle", "build rows", "previous row"
+
+## Common Mistakes
+- Edges me 1 set na karna
+- Previous row index galat use karna
+- Row size galat lena
+- Direct formula try karna (unnecessary)
+
+## Complexity Analysis
+- Time Complexity: O(n^2)
+- Space Complexity: O(n^2)
+
+## Interview Tip
+- Start me bolo: "Each row is built using the previous row"
+- Clearly explain karo edge and middle logic
+- Ek small triangle draw karke samjhao
+- Dry run quickly
+
+Simple rule:
+"Edges 1, middle = sum"
+
 
