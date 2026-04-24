@@ -68,3 +68,34 @@ Final Answer:
 ## Pattern Used
 Sorting + Two Pointer (Closest Sum Variation)
 
+## Why This Works
+- Sorting se structure milta hai
+- Two pointers efficiently pairs explore karte hain
+- Har step pe best answer update hota hai
+- Brute force avoid hota hai
+
+## When To Use This Pattern Again
+- Jab "closest sum" type problem ho
+- Jab exact answer nahi, best approximation chahiye ho
+- Jab 3Sum / kSum variation ho
+- Keywords: "closest", "minimum difference", "approximate sum"
+
+## Common Mistakes
+- Closest update na karna
+- Absolute difference use na karna
+- Pointer movement galat karna
+- Sorting bhool jana
+
+## Complexity Analysis
+- Time Complexity: O(n^2)
+- Space Complexity: O(1)
+
+## Interview Tip
+- Start me bolo: "We sort the array and use two pointers to find closest sum"
+- Difference comparison explain karo clearly
+- Mention karo ki exact match best case hai
+- Ek dry run karke approach prove karo
+
+Simple rule:
+"Sort + two pointer + minimize difference"
+
