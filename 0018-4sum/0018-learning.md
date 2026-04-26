@@ -68,6 +68,46 @@ Try combinations:
 Final Answer:
 All above unique quadruplets
 
+## Pattern Recognition
+- Sorting
+- Two pointers
+- Duplicate handling
+- k-Sum reduction
+
+## Pattern Used
+Sorting + Two Pointer (k-Sum Pattern)
+
+## Why This Works
+- Sorting se structured traversal possible hota hai
+- Problem reduce hoti hai 4Sum → 2Sum
+- Two pointer efficiently pairs find karta hai
+- Duplicate skipping ensures unique results
+
+## When To Use This Pattern Again
+- Jab 3Sum / 4Sum / kSum type problems aaye
+- Jab combinations with target sum ho
+- Jab duplicates avoid karne ho
+- Keywords: "quadruplets", "k sum", "target combinations"
+
+## Common Mistakes
+- Duplicate skip na karna
+- Sorting bhool jana
+- Pointer movement galat karna
+- Overflow ignore karna (large numbers)
+
+## Complexity Analysis
+- Time Complexity: O(n^3)
+- Space Complexity: O(1) (excluding output)
+
+## Interview Tip
+- Start me bolo: "We sort the array and reduce 4Sum to 2Sum using two loops and two pointers"
+- Brute force briefly mention karo
+- Duplicate handling clearly explain karo
+- Ek dry run karke approach prove karo
+
+Simple rule:
+"Sort + fix two + two pointer"
+
 ## Easy Memory Trick
 
 "4Sum = fix two + solve 2Sum"
