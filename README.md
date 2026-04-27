@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vibraniumm/LcDSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vibraniumm/LcDSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vibraniumm/LcDSA/tree/master/0015-3sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vibraniumm/LcDSA/tree/master/0035-search-insert-position) |
 ## Greedy
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vibraniumm/LcDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Tree
 |  |
