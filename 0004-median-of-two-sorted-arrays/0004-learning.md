@@ -60,6 +60,55 @@ Right: [3]
 Median:
 2
 
+Example 2:
+
+[1,2] + [3,4]
+
+Left: [1,2]  
+Right: [3,4]  
+
+Median:
+(2+3)/2 = 2.5
+
+## Easy Memory Trick
+
+"Partition karo taki left <= right ho aur size equal ho"
+
+## Pattern Recognition
+- Binary search
+- Partitioning
+- Divide arrays logically
+
+## Pattern Used
+Binary Search on Partition
+
+## Why This Works
+- Median ke liye hume sorted middle elements chahiye
+- Binary search se correct partition fast milta hai
+- Dono arrays ko merge ki zarurat nahi padti
+- O(log(min(m,n))) me solution mil jata hai
+
+## When To Use This Pattern Again
+- Jab 2 sorted arrays ho
+- Jab median ya kth element find karna ho
+- Jab O(log n) constraint ho
+- Keywords: "median", "kth element", "sorted arrays"
+
+## Common Mistakes
+- Arrays merge kar dena (wrong complexity)
+- Partition logic galat samajhna
+- Edge cases handle na karna (empty array)
+- Infinite loop in binary search
+
+## Complexity Analysis
+- Time Complexity: O(log(min(m, n)))
+- Space Complexity: O(1)
+
+## Interview Tip
+- Start me bolo: "We use binary search on the smaller array and partition both arrays"
+- Clearly explain karo partition concept
+- Edge cases mention karo (empty arrays)
+- Example ke saath explain karo (very important)
 
 
 Simple rule:
