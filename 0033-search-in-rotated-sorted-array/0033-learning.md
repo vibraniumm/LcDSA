@@ -50,4 +50,22 @@ Is problem ko dekhte hi yeh sochna chahiye:
      - else
        → right = mid - 1
 
+## Example (Important for memory)
+
+Input:
+nums = [4,5,6,7,0,1,2], target = 0
+
+Step-by-step:
+
+mid = 7 → left sorted  
+target not in left → go right  
+
+mid = 1 → right sorted  
+target in right → go right  
+
+mid = 0 → found  
+
+Answer:
+4
+
 
