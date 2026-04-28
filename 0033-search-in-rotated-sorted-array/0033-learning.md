@@ -68,4 +68,16 @@ mid = 0 → found
 Answer:
 4
 
+## Easy Memory Trick
+
+"Check sorted half → decide direction"
+
+## Pattern Recognition
+- Binary search
+- Rotated array
+- Condition-based search
+
+## Pattern Used
+Modified Binary Search
+
 
