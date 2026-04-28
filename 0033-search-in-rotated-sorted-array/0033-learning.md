@@ -80,4 +80,33 @@ Answer:
 ## Pattern Used
 Modified Binary Search
 
+## Why This Works
+- Har step me ek half sorted hota hai
+- Sorted half me easily check kar sakte hain target hai ya nahi
+- Search space half hota rehta hai
+- O(log n) complexity maintain hoti hai
 
+## When To Use This Pattern Again
+- Jab rotated sorted array ho
+- Jab search karna ho with O(log n)
+- Jab condition-based branching ho
+- Keywords: "rotated", "search", "binary search"
+
+## Common Mistakes
+- Sorted half identify na kar paana
+- Wrong comparison conditions
+- Infinite loop
+- Edge case miss karna (single element)
+
+## Complexity Analysis
+- Time Complexity: O(log n)
+- Space Complexity: O(1)
+
+## Interview Tip
+- Start me bolo: "We use modified binary search"
+- Clearly explain karo kaise sorted half detect karte hain
+- Condition explain karo step-by-step
+- Ek dry run karke logic prove karo
+
+Simple rule:
+"Find sorted half → search there"
