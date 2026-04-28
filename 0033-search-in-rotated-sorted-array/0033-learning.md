@@ -21,4 +21,33 @@ Is problem ko dekhte hi yeh sochna chahiye:
 - Binary search ka use kar sakte hain
 - Hume identify karna hai kaunsa half sorted hai
 
+## Approach (Step-by-step soch)
+1. left = 0, right = n - 1
+
+2. Jab tak left <= right:
+   - mid = (left + right) // 2
+
+3. Agar nums[mid] == target:
+   → return mid
+
+4. Check karo kaunsa half sorted hai:
+
+   Case 1: Left half sorted
+   - nums[left] <= nums[mid]
+
+   → Check karo target is range me hai ya nahi:
+     - nums[left] <= target < nums[mid]
+       → right = mid - 1
+     - else
+       → left = mid + 1
+
+   Case 2: Right half sorted
+   - nums[mid] < nums[right]
+
+   → Check karo target is range me hai ya nahi:
+     - nums[mid] < target <= nums[right]
+       → left = mid + 1
+     - else
+       → right = mid - 1
+
 
