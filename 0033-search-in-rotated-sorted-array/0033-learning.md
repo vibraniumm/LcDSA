@@ -15,3 +15,10 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 "Rotated array + O(log n) = Modified Binary Search"
 
+## Key Observations
+- Array do sorted parts me divided hota hai
+- At least ek half hamesha sorted hota hai
+- Binary search ka use kar sakte hain
+- Hume identify karna hai kaunsa half sorted hai
+
+
