@@ -23,5 +23,23 @@ Is problem ko dekhte hi yeh sochna chahiye:
   - rightmost occurrence (last index)
   find karna hai
 
+## Approach (Step-by-step soch)
+1. Binary search function use karo:
+   - First occurrence ke liye
+   - Last occurrence ke liye
+
+2. First occurrence:
+   - Agar nums[mid] == target:
+     → result store karo
+     → right = mid - 1 (left side me aur search karo)
+
+3. Last occurrence:
+   - Agar nums[mid] == target:
+     → result store karo
+     → left = mid + 1 (right side me aur search karo)
+
+4. End me dono values return karo:
+   → [first, last]
+
 
 
