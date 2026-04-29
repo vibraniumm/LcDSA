@@ -15,3 +15,12 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 "Binary search 2 baar use karna hai (first occurrence + last occurrence)"
 
+## Key Observations
+- Array sorted hai → binary search apply hoga
+- Target multiple times ho sakta hai
+- Hume:
+  - leftmost occurrence (first index)
+  - rightmost occurrence (last index)
+  find karna hai
+
+
