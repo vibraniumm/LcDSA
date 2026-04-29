@@ -10,5 +10,8 @@ Agar target present nahi hai → return [-1, -1]
 Constraint:
 - O(log n) time complexity
 
+## Core Idea
+Is problem ko dekhte hi yeh sochna chahiye:
 
+"Binary search 2 baar use karna hai (first occurrence + last occurrence)"
 
