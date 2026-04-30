@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vibraniumm/LcDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vibraniumm/LcDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vibraniumm/LcDSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/vibraniumm/LcDSA/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/vibraniumm/LcDSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vibraniumm/LcDSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vibraniumm/LcDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vibraniumm/LcDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/vibraniumm/LcDSA/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/vibraniumm/LcDSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
