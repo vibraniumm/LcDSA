@@ -100,5 +100,34 @@ Hash Set (Duplicate Tracking)
 
 ---
 
+## When To Use This Pattern Again
+- Jab duplicates detect karne ho
+- Jab matrix me constraints check karne ho
+- Jab fast lookup required ho
+- Keywords: "valid", "duplicate", "grid check"
 
+---
+
+## Common Mistakes
+- '.' ko check karna (skip karna chahiye)
+- Box index galat calculate karna
+- Row/column confusion
+- Same set reuse karna (separate sets chahiye)
+
+---
+
+## Complexity Analysis
+- Time Complexity: O(1) (fixed 9x9 board)
+- Space Complexity: O(1)
+
+---
+
+## Interview Tip
+- Start me bolo: "We use sets to track duplicates in rows, columns and boxes"
+- Explain karo box index (row//3, col//3)
+- Clear logic batao
+- Example quickly explain karo
+
+Simple rule:
+"Track seen elements using sets"
 
