@@ -12,3 +12,10 @@ Ek valid solution guaranteed hai.
 
 ---
 
+## Core Idea
+Is problem ko dekhte hi yeh sochna chahiye:
+
+"Backtracking + fast validation using sets"
+
+---
+
