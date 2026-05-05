@@ -68,4 +68,46 @@ Final:
 
 ---
 
+## Pattern Used
+Sliding Window (Fixed Size)
 
+---
+
+## Why This Works
+- Har possible starting index check karte hain
+- Substring comparison simple aur direct hai
+- First match milte hi stop karte hain
+- Constraints allow O(n*m)
+
+---
+
+## When To Use This Pattern Again
+- Jab substring search karna ho
+- Jab exact match chahiye ho
+- Jab constraints small ho
+- Keywords: "find substring", "first occurrence"
+
+---
+
+## Common Mistakes
+- Loop range galat lena (n-m+1 hona chahiye)
+- Edge case ignore karna
+- Early return na karna
+- String slicing me mistake
+
+---
+
+## Complexity Analysis
+- Time Complexity: O(n * m)
+- Space Complexity: O(1)
+
+---
+
+## Interview Tip
+- Start me bolo: "We check each possible starting index"
+- Mention karo brute force acceptable hai
+- Agar interviewer push kare → KMP mention karo
+- Example dry run karo
+
+Simple rule:
+"Check all starting positions"
