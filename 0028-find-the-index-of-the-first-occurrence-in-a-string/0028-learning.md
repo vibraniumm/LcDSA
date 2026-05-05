@@ -40,4 +40,32 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 ---
 
+## Example (Important for memory)
+
+Input:
+haystack = "sadbutsad"  
+needle = "sad"
+
+Step-by-step:
+
+i = 0 → "sad" → match → return 0  
+
+Final:
+0
+
+---
+
+## Easy Memory Trick
+
+"Har position se check karo"
+
+---
+
+## Pattern Recognition
+- String matching
+- Sliding window
+- Brute force substring
+
+---
+
 
