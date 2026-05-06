@@ -84,4 +84,47 @@ Final:
 
 ---
 
+## Pattern Used
+Backtracking (Combination Building)
+
+---
+
+## Why This Works
+- Har possible combination explore karte hain
+- Invalid paths early stop ho jate hain
+- Backtracking state ko restore karta hai
+- All unique valid combinations mil jate hain
+
+---
+
+## When To Use This Pattern Again
+- Jab all combinations generate karni ho
+- Jab repeated choices allowed ho
+- Jab target sum type problem ho
+- Keywords: "combination", "target sum", "all possible"
+
+---
+
+## Common Mistakes
+- Backtrack karna bhool jana
+- Wrong index pass karna
+- Duplicate combinations generate karna
+- Base case galat likhna
+
+---
+
+## Complexity Analysis
+- Time Complexity: Exponential (depends on combinations)
+- Space Complexity: O(target) recursion stack
+
+---
+
+## Interview Tip
+- Start me bolo: "We use backtracking to generate all valid combinations"
+- Explain karo same index kyun pass karte hain
+- Base cases clearly batao
+- Ek recursion tree example dikhao
+
+Simple rule:
+"Choose → Recurse → Backtrack"
 
