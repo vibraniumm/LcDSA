@@ -87,5 +87,13 @@ Backtracking + Sorting
 
 ---
 
+## Why This Works
+- Sorting duplicates ko together laata hai
+- Duplicate skip condition repeated combinations avoid karti hai
+- i+1 pass karne se reuse stop hota hai
+- Backtracking all valid paths explore karta hai
+
+---
+
 
 
