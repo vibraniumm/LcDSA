@@ -95,5 +95,13 @@ Backtracking + Sorting
 
 ---
 
+## When To Use This Pattern Again
+- Jab unique combinations chahiye ho
+- Jab duplicates array me ho
+- Jab elements once-only use hote ho
+- Keywords: "unique combinations", "no duplicates", "use once"
+
+---
+
 
 
