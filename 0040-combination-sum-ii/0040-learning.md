@@ -103,5 +103,26 @@ Backtracking + Sorting
 
 ---
 
+## Common Mistakes
+- Array sort na karna
+- Duplicate skip condition galat likhna
+- i instead of i+1 pass karna
+- Backtrack bhool jana
 
+---
+
+## Complexity Analysis
+- Time Complexity: Exponential
+- Space Complexity: O(target)
+
+---
+
+## Interview Tip
+- Start me bolo: "We sort the array and use backtracking with duplicate skipping"
+- Explain karo duplicate skip condition carefully
+- Difference explain karo Combination Sum I vs II
+- Ek recursion tree dry run karo
+
+Simple rule:
+"Sort → Skip duplicates → Backtrack"
 
