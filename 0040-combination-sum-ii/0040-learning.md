@@ -51,5 +51,41 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 ---
 
+## Example (Important for memory)
+
+Input:
+candidates = [10,1,2,7,6,1,5]  
+target = 8
+
+After sorting:
+[1,1,2,5,6,7,10]
+
+Valid combinations:
+
+[1,1,6]  
+[1,2,5]  
+[1,7]  
+[2,6]
+
+---
+
+## Easy Memory Trick
+
+"Sort + skip duplicates + move forward"
+
+---
+
+## Pattern Recognition
+- Backtracking
+- Combination generation
+- Duplicate handling
+
+---
+
+## Pattern Used
+Backtracking + Sorting
+
+---
+
 
 
