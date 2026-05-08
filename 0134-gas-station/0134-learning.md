@@ -97,4 +97,21 @@ Greedy
 
 ---
 
+## Why This Works
+- Agar A se B tak nahi pahunch sakte:
+  → A aur beech ke kisi station se bhi nahi pahunchoge
+- Isliye directly next station try karte hain
+- Single traversal me answer mil jata hai
+
+---
+
+## When To Use This Pattern Again
+- Jab local failure future decisions affect kare
+- Jab optimal choice greedily possible ho
+- Circular route problems
+- Keywords: "circular", "complete route", "gas", "minimum valid start"
+
+---
+
+
 
