@@ -51,4 +51,32 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 ---
 
+## Example (Important for memory)
+
+Input:
+gas  = [1,2,3,4,5]  
+cost = [3,4,5,1,2]
+
+Difference:
+[-2,-2,-2,+3,+3]
+
+Step-by-step:
+
+Start = 0  
+tank negative → fail
+
+Start = 1  
+tank negative → fail
+
+Start = 2  
+tank negative → fail
+
+Start = 3  
+tank stays positive till complete cycle
+
+Final:
+3
+
+---
+
 
