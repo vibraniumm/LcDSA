@@ -79,4 +79,22 @@ Final:
 
 ---
 
+## Easy Memory Trick
+
+"Negative tank means previous starts are impossible"
+
+---
+
+## Pattern Recognition
+- Greedy
+- Circular traversal
+- Prefix sum logic
+
+---
+
+## Pattern Used
+Greedy
+
+---
+
 
