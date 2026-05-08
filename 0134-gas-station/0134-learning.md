@@ -113,5 +113,29 @@ Greedy
 
 ---
 
+## Common Mistakes
+- Total gas check skip karna
+- Negative tank logic galat samajhna
+- Circular thinking confuse karna
+- Brute force use karna (O(n²))
 
+---
+
+## Complexity Analysis
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+---
+
+## Interview Tip
+- Start me bolo:
+  "First we check if solution exists using total gas"
+
+- Then explain:
+  "If tank becomes negative, no previous station can be valid"
+
+- Greedy proof short me explain karo
+
+Simple rule:
+"Fail point ke beech ka koi start valid nahi"
 
