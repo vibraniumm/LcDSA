@@ -18,4 +18,37 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 ---
 
+## Key Observations
+- Agar total gas < total cost:
+  → impossible hai
+
+- Agar kisi point par tank negative ho gaya:
+  → usse pehle ke kisi bhi station se start nahi kar sakte
+
+- Isliye next station ko new start bana do
+
+---
+
+## Approach (Step-by-step soch)
+1. Check karo:
+   - sum(gas) < sum(cost)
+   → return -1
+
+2. Variables:
+   - tank = current fuel
+   - start = possible answer
+
+3. Traverse all stations:
+   - tank += gas[i] - cost[i]
+
+4. Agar tank < 0:
+   - current path fail
+   - start = i + 1
+   - tank = 0
+
+5. End me:
+   - start return karo
+
+---
+
 
