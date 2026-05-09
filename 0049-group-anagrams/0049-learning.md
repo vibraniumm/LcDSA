@@ -39,4 +39,43 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 ---
 
+## Example (Important for memory)
 
+Input:
+["eat","tea","tan","ate","nat","bat"]
+
+Step-by-step:
+
+"eat" → "aet"  
+"tea" → "aet"  
+"ate" → "aet"
+
+Group:
+["eat","tea","ate"]
+
+"tan" → "ant"  
+"nat" → "ant"
+
+Group:
+["tan","nat"]
+
+Final:
+[["bat"],["nat","tan"],["ate","eat","tea"]]
+
+---
+
+## Easy Memory Trick
+
+"Anagrams ka sorted version same hota hai"
+
+---
+
+## Pattern Recognition
+- HashMap
+- String transformation
+- Grouping
+
+---
+
+
+"Same sorted string = same anagram group"
