@@ -77,5 +77,17 @@ Final:
 
 ---
 
+## Pattern Used
+HashMap + Sorted String Key
 
-"Same sorted string = same anagram group"
+---
+
+## Why This Works
+- Sorting characters unique signature deta hai
+- Same signature wale strings anagrams hote hain
+- HashMap grouping easy bana deta hai
+- Efficient categorization ho jata hai
+
+---
+
+
