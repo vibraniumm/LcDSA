@@ -90,4 +90,20 @@ HashMap + Sorted String Key
 
 ---
 
+## When To Use This Pattern Again
+- Jab grouping based on character frequency ho
+- Jab strings rearrangement related ho
+- Jab same-pattern strings identify karne ho
+- Keywords: "anagram", "group strings", "same characters"
+
+---
+
+## Common Mistakes
+- List ko hashmap key banana (invalid)
+- Sorting bhool jana
+- String join na karna after sorting
+- HashMap initialization issue
+
+---
+
 
