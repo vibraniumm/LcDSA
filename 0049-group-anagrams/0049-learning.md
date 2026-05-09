@@ -106,4 +106,19 @@ HashMap + Sorted String Key
 
 ---
 
+## Complexity Analysis
+- Time Complexity: O(n * k log k)
+  - k = max string length
+- Space Complexity: O(n * k)
 
+---
+
+## Interview Tip
+- Start me bolo: "We use sorted strings as hashmap keys"
+- Explain karo kyun sorted representation unique hota hai
+- Mention alternative optimization:
+  → character frequency tuple
+- Ek small example dry run karo
+
+Simple rule:
+"Same sorted string = same anagram group"
