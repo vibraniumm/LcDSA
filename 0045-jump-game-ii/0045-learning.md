@@ -82,5 +82,18 @@ Final:
 
 ---
 
+## Pattern Used
+Greedy (Farthest Reach)
+
+---
+
+## Why This Works
+- Har jump me maximum reachable area expand karte hain
+- Minimum jumps naturally ensure hote hain
+- BFS levels ki tarah ranges process hoti hain
+- Efficient O(n) solution milta hai
+
+---
+
 
 
