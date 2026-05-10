@@ -95,5 +95,21 @@ Greedy (Farthest Reach)
 
 ---
 
+## When To Use This Pattern Again
+- Jab minimum jumps/moves chahiye ho
+- Jab range expansion ho raha ho
+- Jab greedy optimal choice possible ho
+- Keywords: "minimum jumps", "reach end", "farthest"
+
+---
+
+## Common Mistakes
+- DP use karna unnecessarily
+- current_end update galat karna
+- Last index tak iterate karna
+- Jump increment wrong place par karna
+
+---
+
 
 
