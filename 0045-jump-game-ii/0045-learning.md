@@ -45,4 +45,42 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 ---
 
+## Example (Important for memory)
+
+Input:
+nums = [2,3,1,1,4]
+
+Step-by-step:
+
+Index 0:
+Reach = 2
+
+Jump 1:
+Range = [1,2]
+
+From range:
+Index 1 → reach = 4
+
+Jump 2:
+Reach end
+
+Final:
+2
+
+---
+
+## Easy Memory Trick
+
+"Current range khatam → jump lo"
+
+---
+
+## Pattern Recognition
+- Greedy
+- Range expansion
+- BFS-like traversal
+
+---
+
+
 
