@@ -1,1 +1,48 @@
+# Problem: Jump Game II
+
+## Problem Overview
+Tumhe ek array nums diya gaya hai.
+
+nums[i] batata hai ki current index se maximum kitna jump kar sakte ho.
+
+Tumhe minimum jumps me last index tak pahunchna hai.
+
+Guaranteed hai ki last index reachable hai.
+
+---
+
+## Core Idea
+Is problem ko dekhte hi yeh sochna chahiye:
+
+"Minimum jumps → Greedy range expansion"
+
+---
+
+## Key Observations
+- Har jump me hume maximum future reach choose karni hai
+- BFS jaisa level traversal hota hai
+- Current jump range track karna useful hai
+- Jab current range end ho jaye:
+  → jump increase karo
+
+---
+
+## Approach (Step-by-step soch)
+1. Variables:
+   - jumps = 0
+   - current_end = 0
+   - farthest = 0
+
+2. Loop chalao till n-2:
+   - farthest = max(farthest, i + nums[i])
+
+3. Agar i == current_end:
+   - jump lena padega
+   - jumps++
+   - current_end = farthest
+
+4. End me jumps return karo
+
+---
+
 
