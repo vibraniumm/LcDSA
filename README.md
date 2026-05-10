@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vibraniumm/LcDSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vibraniumm/LcDSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vibraniumm/LcDSA/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/vibraniumm/LcDSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/vibraniumm/LcDSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/vibraniumm/LcDSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vibraniumm/LcDSA/tree/master/0088-merge-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vibraniumm/LcDSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/vibraniumm/LcDSA/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vibraniumm/LcDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/vibraniumm/LcDSA/tree/master/0134-gas-station) |
 ## Sorting
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vibraniumm/LcDSA/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/vibraniumm/LcDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vibraniumm/LcDSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vibraniumm/LcDSA/tree/master/0120-triangle) |
