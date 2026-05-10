@@ -117,5 +117,12 @@ Greedy (Farthest Reach)
 
 ---
 
+## Interview Tip
+- Start me bolo: "We use greedy to track the farthest reachable index"
+- Explain karo current range concept
+- BFS analogy mention karo
+- Dry run zaroor karo
 
+Simple rule:
+"Expand range greedily"
 
