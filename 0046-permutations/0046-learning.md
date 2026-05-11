@@ -1,1 +1,47 @@
+# Problem: Permutations
+
+## Problem Overview
+Tumhe ek array nums diya gaya hai jisme distinct integers hain.
+
+Tumhe us array ke saare possible permutations return karne hain.
+
+Permutation:
+→ elements ka har possible arrangement
+
+---
+
+## Core Idea
+Is problem ko dekhte hi yeh sochna chahiye:
+
+"Har position par har element try karo → Backtracking"
+
+---
+
+## Key Observations
+- Har element ek baar use hona chahiye
+- Har arrangement unique hoga (distinct numbers)
+- Recursively permutations build kar sakte hain
+- Backtracking perfect fit hai
+
+---
+
+## Approach (Step-by-step soch)
+1. Ek result list banao
+
+2. Recursive backtracking function:
+   - current permutation path
+
+3. Base case:
+   - Agar path size == nums size
+     → valid permutation mila
+     → result me add karo
+
+4. Loop chalao nums par:
+   - Agar number already path me nahi hai:
+     → add karo
+     → recurse karo
+     → remove karo (backtrack)
+
+---
+
 
