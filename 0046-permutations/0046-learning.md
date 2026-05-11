@@ -73,4 +73,22 @@ All permutations generated
 
 ---
 
+## Easy Memory Trick
+
+"Choose → Explore → Remove"
+
+---
+
+## Pattern Recognition
+- Backtracking
+- Recursion
+- Permutation generation
+
+---
+
+## Pattern Used
+Backtracking (Decision Tree)
+
+---
+
 
