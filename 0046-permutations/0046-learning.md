@@ -91,4 +91,20 @@ Backtracking (Decision Tree)
 
 ---
 
+## Why This Works
+- Har step par ek choice lete hain
+- Recursive exploration se saari possibilities cover hoti hain
+- Backtracking state restore karta hai
+- Complete search space explore hota hai
+
+---
+
+## When To Use This Pattern Again
+- Jab all arrangements generate karne ho
+- Jab ordering matter kare
+- Jab recursive choices ho
+- Keywords: "permutations", "arrangements", "all possibilities"
+
+---
+
 
