@@ -107,4 +107,17 @@ Backtracking (Decision Tree)
 
 ---
 
+## Common Mistakes
+- Backtrack karna bhool jana
+- Duplicate elements reuse karna
+- Base case galat likhna
+- Path copy na karna before append
+
+---
+
+## Complexity Analysis
+- Time Complexity: O(n!)
+- Space Complexity: O(n)
+
+---
 
