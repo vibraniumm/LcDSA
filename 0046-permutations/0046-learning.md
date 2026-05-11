@@ -44,4 +44,33 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 ---
 
+## Example (Important for memory)
+
+Input:
+nums = [1,2,3]
+
+Step-by-step:
+
+Start:
+[]
+
+Choose 1:
+[1]
+
+Choose 2:
+[1,2]
+
+Choose 3:
+[1,2,3] → add
+
+Backtrack:
+[1,2]
+
+Try other possibilities...
+
+Final:
+All permutations generated
+
+---
+
 
