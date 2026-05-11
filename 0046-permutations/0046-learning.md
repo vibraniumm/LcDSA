@@ -121,3 +121,12 @@ Backtracking (Decision Tree)
 
 ---
 
+
+## Interview Tip
+- Start me bolo: "We use backtracking to generate all permutations"
+- Explain recursion tree
+- Show karo kaise choices banti hain
+- Ek small dry run zaroor karo
+
+Simple rule:
+"Pick one → recurse → backtrack"
