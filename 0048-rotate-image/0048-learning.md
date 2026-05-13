@@ -115,6 +115,13 @@ Matrix Transpose + Reverse
 
 ---
 
+## Interview Tip
+- Start me bolo: "We rotate using transpose + reverse"
+- Explain karo transpose visually
+- In-place requirement highlight karo
+- Example matrix draw karke explain karo
 
+Simple rule:
+"Transpose → Reverse"
 
 
