@@ -73,5 +73,17 @@ Final:
 
 ---
 
+## Pattern Recognition
+- Matrix manipulation
+- In-place transformation
+- Symmetry operations
+
+---
+
+## Pattern Used
+Matrix Transpose + Reverse
+
+---
+
 
 
