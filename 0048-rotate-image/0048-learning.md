@@ -85,5 +85,21 @@ Matrix Transpose + Reverse
 
 ---
 
+## Why This Works
+- Transpose diagonal reflection karta hai
+- Row reverse clockwise orientation deta hai
+- Combined operation exact 90° rotation deta hai
+- Extra space ki zarurat nahi hoti
+
+---
+
+## When To Use This Pattern Again
+- Jab matrix rotation ho
+- Jab in-place transformation ho
+- Jab 2D matrix manipulation ho
+- Keywords: "rotate matrix", "transpose", "in-place"
+
+---
+
 
 
