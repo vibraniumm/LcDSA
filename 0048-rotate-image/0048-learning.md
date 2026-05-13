@@ -101,5 +101,13 @@ Matrix Transpose + Reverse
 
 ---
 
+## Common Mistakes
+- Extra matrix use karna
+- Full matrix transpose karte waqt duplicate swaps
+- Column reverse instead of row reverse
+- Indices galat lena
+
+---
+
 
 
