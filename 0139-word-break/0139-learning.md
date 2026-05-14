@@ -99,5 +99,21 @@ Dynamic Programming (Prefix DP)
 
 ---
 
+## When To Use This Pattern Again
+- Jab string partition karni ho
+- Jab dictionary-based matching ho
+- Jab repeated subproblems ho
+- Keywords: "word break", "segmentation", "dictionary"
+
+---
+
+## Common Mistakes
+- List instead of set use karna
+- dp[0] initialize na karna
+- Wrong substring slicing
+- Recursion bina memoization use karna
+
+---
+
 
 
