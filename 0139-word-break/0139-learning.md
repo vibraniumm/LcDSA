@@ -73,5 +73,23 @@ True
 
 ---
 
+## Easy Memory Trick
+
+"Previous valid point se next word check karo"
+
+---
+
+## Pattern Recognition
+- Dynamic Programming
+- String partitioning
+- Prefix checking
+
+---
+
+## Pattern Used
+Dynamic Programming (Prefix DP)
+
+---
+
 
 
