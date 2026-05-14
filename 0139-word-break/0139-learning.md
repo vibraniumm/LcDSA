@@ -115,5 +115,18 @@ Dynamic Programming (Prefix DP)
 
 ---
 
+## Complexity Analysis
+- Time Complexity: O(n²)
+- Space Complexity: O(n)
 
+---
+
+## Interview Tip
+- Start me bolo: "We use DP where dp[i] means string till i can be segmented"
+- Prefix concept clearly explain karo
+- Mention karo why set improves lookup
+- Ek dry run zaroor karo
+
+Simple rule:
+"Valid prefix → extend further"
 
