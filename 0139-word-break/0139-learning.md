@@ -28,4 +28,50 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 ---
 
+## Approach (Step-by-step soch)
+1. wordDict ko set me convert karo
+   → fast lookup ke liye
+
+2. DP array banao:
+   - dp[i] = True
+     → agar s[:i] valid break ho sakta hai
+
+3. Initialize:
+   - dp[0] = True
+     → empty string valid hai
+
+4. Har position i ke liye:
+   - Previous positions j check karo
+
+5. Agar:
+   - dp[j] == True
+   - aur s[j:i] wordDict me hai
+
+   → dp[i] = True
+
+6. Final answer:
+   → dp[len(s)]
+
+---
+
+## Example (Important for memory)
+
+Input:
+s = "leetcode"  
+wordDict = ["leet","code"]
+
+Step-by-step:
+
+"leet" → valid  
+dp[4] = True
+
+"code" → valid from dp[4]  
+dp[8] = True
+
+Final:
+True
+
+---
+
+
 
