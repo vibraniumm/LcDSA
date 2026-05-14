@@ -91,5 +91,13 @@ Dynamic Programming (Prefix DP)
 
 ---
 
+## Why This Works
+- Har position previous valid states par depend karti hai
+- DP repeated calculations avoid karta hai
+- Prefix-based build efficient hota hai
+- End tak reachable hua → valid segmentation
+
+---
+
 
 
