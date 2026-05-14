@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vibraniumm/LcDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/vibraniumm/LcDSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/vibraniumm/LcDSA/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/vibraniumm/LcDSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/vibraniumm/LcDSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vibraniumm/LcDSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vibraniumm/LcDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vibraniumm/LcDSA/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/vibraniumm/LcDSA/tree/master/0139-word-break) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vibraniumm/LcDSA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/vibraniumm/LcDSA/tree/master/0139-word-break) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/vibraniumm/LcDSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibraniumm/LcDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vibraniumm/LcDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/vibraniumm/LcDSA/tree/master/0139-word-break) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/vibraniumm/LcDSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vibraniumm/LcDSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/vibraniumm/LcDSA/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/vibraniumm/LcDSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/vibraniumm/LcDSA/tree/master/0169-majority-element) |
 ## Matrix
 |  |
@@ -144,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vibraniumm/LcDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vibraniumm/LcDSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
