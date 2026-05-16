@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vibraniumm/LcDSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vibraniumm/LcDSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vibraniumm/LcDSA/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/vibraniumm/LcDSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vibraniumm/LcDSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vibraniumm/LcDSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vibraniumm/LcDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vibraniumm/LcDSA/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/vibraniumm/LcDSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/vibraniumm/LcDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vibraniumm/LcDSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vibraniumm/LcDSA/tree/master/0120-triangle) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/vibraniumm/LcDSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vibraniumm/LcDSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/vibraniumm/LcDSA/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/vibraniumm/LcDSA/tree/master/0064-minimum-path-sum) |
 ## Counting
 |  |
 | ------- |
