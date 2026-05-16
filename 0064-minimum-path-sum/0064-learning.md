@@ -114,5 +114,19 @@ Dynamic Programming (Grid DP)
 
 ---
 
+## Common Mistakes
+- First row/column separately handle na karna
+- Wrong indices use karna
+- Extra DP array unnecessarily banana
+- Diagonal moves consider kar lena
+
+---
+
+## Complexity Analysis
+- Time Complexity: O(m * n)
+- Space Complexity: O(1) (in-place)
+
+---
+
 
 
