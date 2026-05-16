@@ -80,5 +80,11 @@ Final:
 
 ---
 
+## Easy Memory Trick
+
+"Current cell = value + min(top, left)"
+
+---
+
 
 
