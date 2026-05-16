@@ -106,5 +106,13 @@ Dynamic Programming (Grid DP)
 
 ---
 
+## When To Use This Pattern Again
+- Jab grid traversal ho
+- Jab minimum/maximum path problems ho
+- Jab restricted moves ho
+- Keywords: "minimum path", "grid", "DP"
+
+---
+
 
 
