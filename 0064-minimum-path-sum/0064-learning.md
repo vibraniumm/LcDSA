@@ -128,5 +128,12 @@ Dynamic Programming (Grid DP)
 
 ---
 
+## Interview Tip
+- Start me bolo: "We use DP where each cell stores minimum cost to reach there"
+- Explain karo why only top and left matter
+- In-place optimization mention karo
+- Ek grid dry run zaroor karo
 
+Simple rule:
+"Take minimum from top or left"
 
