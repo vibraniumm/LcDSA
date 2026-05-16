@@ -86,5 +86,25 @@ Final:
 
 ---
 
+## Pattern Recognition
+- Dynamic Programming
+- Grid traversal
+- Minimum path
+
+---
+
+## Pattern Used
+Dynamic Programming (Grid DP)
+
+---
+
+## Why This Works
+- Har cell ka minimum path previous optimal paths par depend karta hai
+- DP repeated calculations avoid karta hai
+- Incrementally minimum cost build hoti hai
+- Efficient bottom-up solution milta hai
+
+---
+
 
 
