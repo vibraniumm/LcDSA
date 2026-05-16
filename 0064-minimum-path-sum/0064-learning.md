@@ -28,4 +28,57 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 ---
 
+## Approach (Step-by-step soch)
+1. First row update karo:
+   - Sirf left se aa sakte hain
+
+2. First column update karo:
+   - Sirf top se aa sakte hain
+
+3. Baaki cells ke liye:
+   - grid[i][j] += min(grid[i-1][j], grid[i][j-1])
+
+4. Final answer:
+   - bottom-right cell
+
+---
+
+## Example (Important for memory)
+
+Input:
+
+1 3 1
+1 5 1
+4 2 1
+
+Step-by-step:
+
+First row:
+1 4 5
+
+First column:
+1
+2
+6
+
+Now update:
+
+Cell(1,1):
+5 + min(4,2) = 7
+
+Cell(1,2):
+1 + min(5,7) = 6
+
+Cell(2,1):
+2 + min(7,6) = 8
+
+Cell(2,2):
+1 + min(6,8) = 7
+
+Final:
+7
+
+---
+
+
 
