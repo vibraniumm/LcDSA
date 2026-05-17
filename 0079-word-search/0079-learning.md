@@ -84,5 +84,25 @@ True
 
 ---
 
+## Pattern Recognition
+- Backtracking
+- DFS
+- Grid traversal
+
+---
+
+## Pattern Used
+DFS + Backtracking
+
+---
+
+## Why This Works
+- DFS possible paths explore karta hai
+- Backtracking wrong paths undo karta hai
+- Har valid adjacent sequence try hoti hai
+- Efficient pruning hota hai mismatch par
+
+---
+
 
 
