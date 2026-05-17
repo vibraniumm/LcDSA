@@ -104,5 +104,35 @@ DFS + Backtracking
 
 ---
 
+## When To Use This Pattern Again
+- Jab grid me path search ho
+- Jab adjacent traversal ho
+- Jab reuse restricted ho
+- Keywords: "word search", "path in grid", "DFS"
 
+---
+
+## Common Mistakes
+- Visited cell restore na karna
+- Diagonal moves allow kar dena
+- Bounds check miss karna
+- Same cell reuse kar lena
+
+---
+
+## Complexity Analysis
+- Time Complexity: O(m * n * 4^L)
+  - L = length of word
+- Space Complexity: O(L)
+
+---
+
+## Interview Tip
+- Start me bolo: "We use DFS with backtracking"
+- Explain karo visited marking
+- Show karo kaise backtracking restore karta hai
+- Dry run bahut important hai
+
+Simple rule:
+"DFS + undo changes"
 
