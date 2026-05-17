@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vibraniumm/LcDSA/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/vibraniumm/LcDSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vibraniumm/LcDSA/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/vibraniumm/LcDSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/vibraniumm/LcDSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vibraniumm/LcDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vibraniumm/LcDSA/tree/master/0118-pascals-triangle) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vibraniumm/LcDSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vibraniumm/LcDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vibraniumm/LcDSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/vibraniumm/LcDSA/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/vibraniumm/LcDSA/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vibraniumm/LcDSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/vibraniumm/LcDSA/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/vibraniumm/LcDSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/vibraniumm/LcDSA/tree/master/0079-word-search) |
 ## Counting
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vibraniumm/LcDSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vibraniumm/LcDSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vibraniumm/LcDSA/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/vibraniumm/LcDSA/tree/master/0079-word-search) |
 ## String Matching
 |  |
 | ------- |
@@ -156,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vibraniumm/LcDSA/tree/master/0139-word-break) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vibraniumm/LcDSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
