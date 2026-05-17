@@ -60,5 +60,29 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 ---
 
+## Example (Important for memory)
+
+Input:
+
+A B C E
+S F C S
+A D E E
+
+word = "ABCCED"
+
+Path:
+A → B → C → C → E → D
+
+Final:
+True
+
+---
+
+## Easy Memory Trick
+
+"Match → Explore → Backtrack"
+
+---
+
 
 
