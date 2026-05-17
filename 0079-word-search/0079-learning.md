@@ -30,5 +30,35 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 ---
 
+## Approach (Step-by-step soch)
+1. Board ke har cell se DFS start karo
+
+2. DFS function:
+   - Current row
+   - Current col
+   - Word index
+
+3. Base case:
+   - Agar index == len(word)
+     → pura word mil gaya → return True
+
+4. Invalid conditions:
+   - Out of bounds
+   - Character mismatch
+   - Already visited
+
+5. Current cell mark karo visited
+
+6. 4 directions me DFS:
+   - up
+   - down
+   - left
+   - right
+
+7. Backtrack:
+   - Cell restore karo
+
+---
+
 
 
