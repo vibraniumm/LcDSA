@@ -79,4 +79,22 @@ False
 
 ---
 
+## Easy Memory Trick
+
+"Check karo kitna aage tak pahunch sakte ho"
+
+---
+
+## Pattern Recognition
+- Greedy
+- Reachability
+- Array traversal
+
+---
+
+## Pattern Used
+Greedy (Farthest Reach)
+
+---
+
 
