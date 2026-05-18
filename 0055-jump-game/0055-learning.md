@@ -114,4 +114,25 @@ Greedy (Farthest Reach)
 
 ---
 
+## Common Mistakes
+- DP unnecessarily use karna
+- Reach update galat karna
+- Early failure detect na karna
+- Last index condition confuse karna
 
+---
+
+## Complexity Analysis
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+---
+
+## Interview Tip
+- Start me bolo: "We greedily track the farthest reachable index"
+- Explain karo unreachable condition
+- Jump Game I vs II ka difference mention karo
+- Dry run zaroor karo
+
+Simple rule:
+"Maintain farthest reachable index"
