@@ -97,4 +97,21 @@ Greedy (Farthest Reach)
 
 ---
 
+## Why This Works
+- Har step par best possible reach maintain karte hain
+- Agar current index reachable nahi hai:
+  → आगे जाना impossible hai
+- Greedy locally optimal choice sufficient hai
+- O(n) me efficient solution milta hai
+
+---
+
+## When To Use This Pattern Again
+- Jab reachability check karni ho
+- Jab maximum future reach important ho
+- Jab jumps/moves allowed ho
+- Keywords: "can reach", "maximum jump", "reachable"
+
+---
+
 
