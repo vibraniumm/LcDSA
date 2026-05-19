@@ -43,4 +43,55 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 ---
 
+## Example (Important for memory)
+
+Input:
+nums = [1,2,3,1]
+
+Step-by-step:
+
+1 → add  
+2 → add  
+3 → add  
+1 → already exists
+
+Final:
+True
+
+---
+
+## Easy Memory Trick
+
+"Seen before? → duplicate"
+
+---
+
+## Pattern Recognition
+- Hashing
+- Duplicate detection
+- Set lookup
+
+---
+
+## Pattern Used
+Hash Set
+
+---
+
+## Why This Works
+- Set lookup O(1) hota hai
+- Har element ek baar check hota hai
+- Duplicate instantly detect ho jata hai
+- Efficient linear solution milta hai
+
+---
+
+## When To Use This Pattern Again
+- Jab duplicates detect karne ho
+- Jab uniqueness check karna ho
+- Jab fast lookup required ho
+- Keywords: "duplicate", "distinct", "repeated"
+
+---
+
 
