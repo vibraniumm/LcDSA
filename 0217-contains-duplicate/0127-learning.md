@@ -94,4 +94,26 @@ Hash Set
 
 ---
 
+## Common Mistakes
+- List use karna instead of set
+- Sorting unnecessarily karna
+- Duplicate milne ke baad bhi continue karna
+- Space complexity ignore karna
+
+---
+
+## Complexity Analysis
+- Time Complexity: O(n)
+- Space Complexity: O(n)
+
+---
+
+## Interview Tip
+- Start me bolo: "We use a hash set for O(1) duplicate checking"
+- Mention karo why set is ideal
+- Alternative sorting approach briefly bata sakte ho
+- Quick dry run karo
+
+Simple rule:
+"Use set to track seen elements"
 
