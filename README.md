@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vibraniumm/LcDSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vibraniumm/LcDSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/vibraniumm/LcDSA/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/vibraniumm/LcDSA/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/vibraniumm/LcDSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vibraniumm/LcDSA/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/vibraniumm/LcDSA/tree/master/0079-word-search) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/vibraniumm/LcDSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vibraniumm/LcDSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/vibraniumm/LcDSA/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/vibraniumm/LcDSA/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/vibraniumm/LcDSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/vibraniumm/LcDSA/tree/master/0079-word-search) |
 ## Counting
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vibraniumm/LcDSA/tree/master/0079-word-search) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/vibraniumm/LcDSA/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
