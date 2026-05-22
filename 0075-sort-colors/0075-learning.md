@@ -82,4 +82,53 @@ Final:
 
 ---
 
+## Pattern Recognition
+- Two pointers
+- Partitioning
+- In-place sorting
 
+---
+
+## Pattern Used
+Dutch National Flag Algorithm
+
+---
+
+## Why This Works
+- Array ko 3 regions me divide karte hain
+- Har step me ek element correct region me place hota hai
+- One-pass sorting achieve hoti hai
+- Extra space ki zarurat nahi hoti
+
+---
+
+## When To Use This Pattern Again
+- Jab limited categories ho
+- Jab partition-based sorting ho
+- Jab in-place sorting required ho
+- Keywords: "3 colors", "partition", "one pass"
+
+---
+
+## Common Mistakes
+- Swap ke baad mid incorrectly move karna
+- 2 swap case me mid increment kar dena
+- Extra sorting use karna
+- Pointer conditions galat likhna
+
+---
+
+## Complexity Analysis
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+---
+
+## Interview Tip
+- Start me bolo: "We use Dutch National Flag Algorithm"
+- Clearly explain 3 regions
+- Mention karo why one-pass possible hai
+- Dry run bahut important hai
+
+Simple rule:
+"0 left, 1 middle, 2 right"
