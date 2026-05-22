@@ -54,4 +54,32 @@ Is problem ko dekhte hi yeh sochna chahiye:
 
 ---
 
+## Example (Important for memory)
+
+Input:
+nums = [2,0,2,1,1,0]
+
+Step-by-step:
+
+[2,0,2,1,1,0]
+
+Swap 2 with high:
+[0,0,2,1,1,2]
+
+Move 0 left:
+[0,0,2,1,1,2]
+
+Continue...
+
+Final:
+[0,0,1,1,2,2]
+
+---
+
+## Easy Memory Trick
+
+"0 left, 2 right, 1 middle"
+
+---
+
 
