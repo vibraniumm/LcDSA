@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vibraniumm/LcDSA/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/vibraniumm/LcDSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vibraniumm/LcDSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/vibraniumm/LcDSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/vibraniumm/LcDSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/vibraniumm/LcDSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vibraniumm/LcDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vibraniumm/LcDSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vibraniumm/LcDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/vibraniumm/LcDSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/vibraniumm/LcDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vibraniumm/LcDSA/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vibraniumm/LcDSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/vibraniumm/LcDSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/vibraniumm/LcDSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/vibraniumm/LcDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vibraniumm/LcDSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vibraniumm/LcDSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vibraniumm/LcDSA/tree/master/0217-contains-duplicate) |
