@@ -107,4 +107,26 @@ Two Pointer Technique
 
 ---
 
+## Common Mistakes
+- Special characters ignore na karna
+- Lowercase conversion bhool jana
+- Pointer update galat karna
+- Empty string edge case miss karna
+
+---
+
+## Complexity Analysis
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+---
+
+## Interview Tip
+- Start me bolo: "We use two pointers from both ends"
+- Explain karo invalid character skipping
+- Mention karo in-place comparison ho raha hai
+- Dry run quickly karo
+
+Simple rule:
+"Skip invalid, compare ends"
 
