@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vibraniumm/LcDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vibraniumm/LcDSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vibraniumm/LcDSA/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/vibraniumm/LcDSA/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -184,4 +185,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/vibraniumm/LcDSA/tree/master/0059-spiral-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/vibraniumm/LcDSA/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/vibraniumm/LcDSA/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/vibraniumm/LcDSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
