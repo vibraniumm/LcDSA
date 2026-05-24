@@ -81,3 +81,33 @@ Final:
 
 ---
 
+## Pattern Recognition
+- Linked List
+- Fast & Slow pointers
+- Reverse linked list
+- Merge two lists
+
+---
+
+## Pattern Used
+Two Pointer + Reverse Linked List
+
+---
+
+## Why This Works
+- Middle split balanced halves deta hai
+- Reverse second half required order create karta hai
+- Alternate merge final arrangement bana deta hai
+- In-place efficient solution milta hai
+
+---
+
+## When To Use This Pattern Again
+- Jab linked list reorder karni ho
+- Jab end nodes ko front me lana ho
+- Jab reverse + merge pattern ho
+- Keywords: "reorder", "reverse second half", "linked list"
+
+---
+
+
