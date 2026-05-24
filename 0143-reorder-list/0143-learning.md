@@ -110,4 +110,28 @@ Two Pointer + Reverse Linked List
 
 ---
 
+## Common Mistakes
+- Middle split galat karna
+- Reverse logic incorrect
+- Merge me next pointers lose kar dena
+- Infinite loop create kar dena
 
+---
+
+## Complexity Analysis
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+---
+
+## Interview Tip
+- Start me bolo:
+  "We solve this in 3 steps:
+   find middle, reverse second half, merge both halves"
+
+- Clearly explain pointer changes
+- Dry run linked list diagrams ke saath karo
+- Reverse linked list confidently explain karo
+
+Simple rule:
+"Split → Reverse → Merge"
