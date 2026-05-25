@@ -72,5 +72,26 @@ Final:
 
 ---
 
+## Pattern Recognition
+- Linked List
+- Two pointers
+- Fast & Slow pointer
+
+---
+
+## Pattern Used
+Two Pointer Technique
+
+---
+
+## Why This Works
+- Fast pointer gap maintain karta hai
+- Jab fast end par hota hai:
+  → slow correct previous node par hota hai
+- One-pass efficient solution milta hai
+- Dummy node edge cases simplify karta hai
+
+---
+
 
 
