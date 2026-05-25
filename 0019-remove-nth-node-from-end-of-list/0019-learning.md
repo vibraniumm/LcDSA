@@ -93,5 +93,25 @@ Two Pointer Technique
 
 ---
 
+## When To Use This Pattern Again
+- Jab kth/nth node from end find karna ho
+- Jab linked list one-pass solution chahiye ho
+- Jab distance maintain karna ho
+- Keywords: "from end", "two pointers", "linked list"
 
+---
+
+## Common Mistakes
+- Dummy node use na karna
+- Fast ko wrong steps move karna
+- Head removal case miss karna
+- Pointer updates galat karna
+
+---
+
+## Complexity Analysis
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+---
 
