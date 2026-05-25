@@ -115,3 +115,14 @@ Two Pointer Technique
 
 ---
 
+
+## Interview Tip
+- Start me bolo:
+  "We maintain a gap of n nodes between fast and slow pointers"
+
+- Dummy node ka importance explain karo
+- One-pass advantage mention karo
+- Dry run definitely karo
+
+Simple rule:
+"Maintain gap of n"
