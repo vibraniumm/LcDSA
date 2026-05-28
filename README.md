@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vibraniumm/LcDSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/vibraniumm/LcDSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vibraniumm/LcDSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vibraniumm/LcDSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/vibraniumm/LcDSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vibraniumm/LcDSA/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vibraniumm/LcDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vibraniumm/LcDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vibraniumm/LcDSA/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vibraniumm/LcDSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vibraniumm/LcDSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vibraniumm/LcDSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vibraniumm/LcDSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/vibraniumm/LcDSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vibraniumm/LcDSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
