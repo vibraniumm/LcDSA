@@ -114,12 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vibraniumm/LcDSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vibraniumm/LcDSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/vibraniumm/LcDSA/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vibraniumm/LcDSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vibraniumm/LcDSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/vibraniumm/LcDSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/vibraniumm/LcDSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vibraniumm/LcDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vibraniumm/LcDSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vibraniumm/LcDSA/tree/master/0120-triangle) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vibraniumm/LcDSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/vibraniumm/LcDSA/tree/master/0139-word-break) |
 ## Depth-First Search
 |  |
