@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vibraniumm/LcDSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/vibraniumm/LcDSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/vibraniumm/LcDSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vibraniumm/LcDSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vibraniumm/LcDSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vibraniumm/LcDSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vibraniumm/LcDSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vibraniumm/LcDSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/vibraniumm/LcDSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vibraniumm/LcDSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vibraniumm/LcDSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vibraniumm/LcDSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/vibraniumm/LcDSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/vibraniumm/LcDSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
