@@ -142,11 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibraniumm/LcDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vibraniumm/LcDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/vibraniumm/LcDSA/tree/master/0139-word-break) |
+| [0338-counting-bits](https://github.com/vibraniumm/LcDSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/vibraniumm/LcDSA/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vibraniumm/LcDSA/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/vibraniumm/LcDSA/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
