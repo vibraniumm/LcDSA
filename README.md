@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vibraniumm/LcDSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vibraniumm/LcDSA/tree/master/0414-third-maximum-number) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vibraniumm/LcDSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vibraniumm/LcDSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/vibraniumm/LcDSA/tree/master/0143-reorder-list) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vibraniumm/LcDSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vibraniumm/LcDSA/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vibraniumm/LcDSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
