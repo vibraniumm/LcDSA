@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vibraniumm/LcDSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vibraniumm/LcDSA/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/vibraniumm/LcDSA/tree/master/0645-set-mismatch) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vibraniumm/LcDSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/vibraniumm/LcDSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vibraniumm/LcDSA/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/vibraniumm/LcDSA/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/vibraniumm/LcDSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/vibraniumm/LcDSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/vibraniumm/LcDSA/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/vibraniumm/LcDSA/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vibraniumm/LcDSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/vibraniumm/LcDSA/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/vibraniumm/LcDSA/tree/master/0645-set-mismatch) |
 ## Matrix
 |  |
 | ------- |
