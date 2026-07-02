@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vibraniumm/LcDSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vibraniumm/LcDSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vibraniumm/LcDSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/vibraniumm/LcDSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vibraniumm/LcDSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/vibraniumm/LcDSA/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/vibraniumm/LcDSA/tree/master/0509-fibonacci-number) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/vibraniumm/LcDSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vibraniumm/LcDSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/vibraniumm/LcDSA/tree/master/0258-add-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -316,4 +318,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vibraniumm/LcDSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/vibraniumm/LcDSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
