@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vibraniumm/LcDSA/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/vibraniumm/LcDSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/vibraniumm/LcDSA/tree/master/0645-set-mismatch) |
+| [1331-rank-transform-of-an-array](https://github.com/vibraniumm/LcDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vibraniumm/LcDSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vibraniumm/LcDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vibraniumm/LcDSA/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vibraniumm/LcDSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vibraniumm/LcDSA/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/vibraniumm/LcDSA/tree/master/0645-set-mismatch) |
+| [1331-rank-transform-of-an-array](https://github.com/vibraniumm/LcDSA/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vibraniumm/LcDSA/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/vibraniumm/LcDSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/vibraniumm/LcDSA/tree/master/0645-set-mismatch) |
+| [1331-rank-transform-of-an-array](https://github.com/vibraniumm/LcDSA/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
 |  |
 | ------- |
