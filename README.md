@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vibraniumm/LcDSA/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/vibraniumm/LcDSA/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/vibraniumm/LcDSA/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/vibraniumm/LcDSA/tree/master/2427-number-of-common-factors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vibraniumm/LcDSA/tree/master/3411-maximum-subarray-with-equal-products) |
