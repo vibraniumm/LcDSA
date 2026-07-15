@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/vibraniumm/LcDSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/vibraniumm/LcDSA/tree/master/2427-number-of-common-factors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vibraniumm/LcDSA/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vibraniumm/LcDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/vibraniumm/LcDSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/vibraniumm/LcDSA/tree/master/2427-number-of-common-factors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vibraniumm/LcDSA/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vibraniumm/LcDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
 | ------- |
