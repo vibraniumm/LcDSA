@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vibraniumm/LcDSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vibraniumm/LcDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vibraniumm/LcDSA/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vibraniumm/LcDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vibraniumm/LcDSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vibraniumm/LcDSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vibraniumm/LcDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vibraniumm/LcDSA/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/vibraniumm/LcDSA/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/vibraniumm/LcDSA/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vibraniumm/LcDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/vibraniumm/LcDSA/tree/master/2427-number-of-common-factors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vibraniumm/LcDSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vibraniumm/LcDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vibraniumm/LcDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vibraniumm/LcDSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vibraniumm/LcDSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/vibraniumm/LcDSA/tree/master/0258-add-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vibraniumm/LcDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -354,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/vibraniumm/LcDSA/tree/master/2427-number-of-common-factors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vibraniumm/LcDSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vibraniumm/LcDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vibraniumm/LcDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
