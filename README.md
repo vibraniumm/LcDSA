@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vibraniumm/LcDSA/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/vibraniumm/LcDSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/vibraniumm/LcDSA/tree/master/0645-set-mismatch) |
+| [1260-shift-2d-grid](https://github.com/vibraniumm/LcDSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vibraniumm/LcDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vibraniumm/LcDSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vibraniumm/LcDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vibraniumm/LcDSA/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/vibraniumm/LcDSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/vibraniumm/LcDSA/tree/master/0079-word-search) |
+| [1260-shift-2d-grid](https://github.com/vibraniumm/LcDSA/tree/master/1260-shift-2d-grid) |
 ## Counting
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vibraniumm/LcDSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vibraniumm/LcDSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/vibraniumm/LcDSA/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/vibraniumm/LcDSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vibraniumm/LcDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
