@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vibraniumm/LcDSA/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/vibraniumm/LcDSA/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vibraniumm/LcDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vibraniumm/LcDSA/tree/master/0645-set-mismatch) |
 | [1260-shift-2d-grid](https://github.com/vibraniumm/LcDSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vibraniumm/LcDSA/tree/master/1331-rank-transform-of-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/vibraniumm/LcDSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vibraniumm/LcDSA/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vibraniumm/LcDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vibraniumm/LcDSA/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/vibraniumm/LcDSA/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/vibraniumm/LcDSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/vibraniumm/LcDSA/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/vibraniumm/LcDSA/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/vibraniumm/LcDSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vibraniumm/LcDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/vibraniumm/LcDSA/tree/master/1025-divisor-game) |
 | [1952-three-divisors](https://github.com/vibraniumm/LcDSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vibraniumm/LcDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
