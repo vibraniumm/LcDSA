@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vibraniumm/LcDSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vibraniumm/LcDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vibraniumm/LcDSA/tree/master/0414-third-maximum-number) |
+| [0486-predict-the-winner](https://github.com/vibraniumm/LcDSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/vibraniumm/LcDSA/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vibraniumm/LcDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vibraniumm/LcDSA/tree/master/0645-set-mismatch) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vibraniumm/LcDSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/vibraniumm/LcDSA/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/vibraniumm/LcDSA/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/vibraniumm/LcDSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vibraniumm/LcDSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vibraniumm/LcDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/vibraniumm/LcDSA/tree/master/1025-divisor-game) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vibraniumm/LcDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/vibraniumm/LcDSA/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/vibraniumm/LcDSA/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/vibraniumm/LcDSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vibraniumm/LcDSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/vibraniumm/LcDSA/tree/master/1025-divisor-game) |
 ## Bit Manipulation
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vibraniumm/LcDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/vibraniumm/LcDSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/vibraniumm/LcDSA/tree/master/0143-reorder-list) |
+| [0486-predict-the-winner](https://github.com/vibraniumm/LcDSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vibraniumm/LcDSA/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vibraniumm/LcDSA/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/vibraniumm/LcDSA/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/vibraniumm/LcDSA/tree/master/1025-divisor-game) |
 ## Heap (Priority Queue)
 |  |
