@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vibraniumm/LcDSA/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vibraniumm/LcDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vibraniumm/LcDSA/tree/master/0645-set-mismatch) |
+| [0877-stone-game](https://github.com/vibraniumm/LcDSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/vibraniumm/LcDSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vibraniumm/LcDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vibraniumm/LcDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vibraniumm/LcDSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vibraniumm/LcDSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vibraniumm/LcDSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/vibraniumm/LcDSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vibraniumm/LcDSA/tree/master/1025-divisor-game) |
 | [1952-three-divisors](https://github.com/vibraniumm/LcDSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vibraniumm/LcDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/vibraniumm/LcDSA/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/vibraniumm/LcDSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vibraniumm/LcDSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/vibraniumm/LcDSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vibraniumm/LcDSA/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/vibraniumm/LcDSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/vibraniumm/LcDSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/vibraniumm/LcDSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vibraniumm/LcDSA/tree/master/1025-divisor-game) |
 ## Heap (Priority Queue)
 |  |
