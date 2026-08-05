@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/vibraniumm/LcDSA/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/vibraniumm/LcDSA/tree/master/0133-clone-graph) |
+| [3310-remove-methods-from-project](https://github.com/vibraniumm/LcDSA/tree/master/3310-remove-methods-from-project) |
 ## Simulation
 |  |
 | ------- |
@@ -373,10 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/vibraniumm/LcDSA/tree/master/0133-clone-graph) |
+| [3310-remove-methods-from-project](https://github.com/vibraniumm/LcDSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/vibraniumm/LcDSA/tree/master/0133-clone-graph) |
+| [3310-remove-methods-from-project](https://github.com/vibraniumm/LcDSA/tree/master/3310-remove-methods-from-project) |
 ## Merge Sort
 |  |
 | ------- |
