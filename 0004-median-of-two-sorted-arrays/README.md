@@ -5,7 +5,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
+<pre>   
 <strong>Input:</strong> nums1 = [1,3], nums2 = [2]
 <strong>Output:</strong> 2.00000
 <strong>Explanation:</strong> merged array = [1,2,3] and median is 2.
